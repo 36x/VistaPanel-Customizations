@@ -93,7 +93,7 @@ function indexAppGroups() {
             "imgtype": "icon",
             "group": a.group,
             "itemdesc": a.name,
-            "itemorder": a.order
+            "itemorder": a.order,
             "url": a.link,
             "type": "image",
             "height": "48",
